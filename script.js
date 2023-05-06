@@ -64,4 +64,4 @@ let weather = {
       }
     });
   
-  weather.fetchLatLon("Denver");
+  weather.fetchLatLon("Delhi");
